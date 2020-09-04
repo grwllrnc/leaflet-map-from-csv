@@ -1,0 +1,28 @@
+/* 
+
+CSS styles for leaflet-map-from-csv.js
+
+*/
+
+#leaflet-map-id {
+    height: 576px;
+}
+
+.leaflet-map a {
+    color: #0078A8 !important;
+}
+
+.leaflet-map {
+    margin-bottom: 2em;
+}
+
+.leaflet-popup-content p {
+    margin-top: 0 !important;
+}
+
+.map-caption {
+    font-size: 85%;
+    position: relative;
+    top: -1.2em;
+    line-height: 1.3;
+}
